@@ -1,0 +1,13 @@
+{
+    "name": "github-profile-analyzer",
+    "version": "1.0.0",
+    "description": "A simple tool to analyze GitHub profiles using the GitHub API.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
